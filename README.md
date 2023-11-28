@@ -9,3 +9,5 @@ Oferecemos um sistema mobile onde o usuário necessita cria/registrar sua conta 
 ## Serviços Prestados: 
 Tesouro Direto, CDB, SELIC, Pré-Fixado Ações, Imobiliárias, Esportes, e-sports e Rinha de Galo.
 
+## Casos de Uso
+<img src="https://github.com/ailtu/LatrellBet/blob/main/Imagens/Diagrama-Casos-de-Uso.png" alt="Diagrama Casos de Uso">
