@@ -7,4 +7,5 @@ Sua função é oferecer serviços financeiros que variam de Investimentos a apo
 Oferecemos um sistema mobile onde o usuário necessita cria/registrar sua conta e nela ganhará um número de agência e número de conta para realizar as transações financeiras. 
 
 ## Serviços Prestados: 
-Renda Fixa: CDB, CDi
+Tesouro Direto, CDB, SELIC, Pré-Fixado Ações, Imobiliárias, Esportes, e-sports e Rinha de Galo.
+
