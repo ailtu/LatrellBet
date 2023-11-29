@@ -11,3 +11,6 @@ Tesouro Direto, CDB, SELIC, Pré-Fixado Ações, Imobiliárias, Esportes, e-spor
 
 ## Casos de Uso
 <img src="https://github.com/ailtu/LatrellBet/blob/main/Imagens/Diagrama-Casos-de-Uso.png" alt="Diagrama Casos de Uso">
+
+## Diagrama de Classe
+<img src="https://github.com/ailtu/LatrellBet/blob/main/Imagens/Diagrama%20de%20Classe.png" alt="Diagrama Classes">
